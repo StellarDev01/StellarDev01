@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="/imgs/night.jpg" width="100%" alt="stars and moon"/>
+  <img src="/imgs/night.jpg" width="100%" alt="stars and moon">
 
 ###
 
@@ -40,11 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
   height="50" alt="github logo"  />
   <img width="12" />
-</div>
 
-###
-
-<div align="left">
 
   <a href="samirgg2000@gmail.com" target="_blank">
     <img width="60" height="60" src="/imgs/gmail.png" alt="gmail"/>
@@ -55,6 +51,7 @@
   <a href="https://api.whatsapp.com/send?phone=573228750198&text=Hola%2C%20quisiera%20saber%20un%20poco%20sobre%20ti%20y%20tus%20servicios" target="_blank">
   <img width="60" height="60" src="/imgs/whatsapp.png" alt="whatsapp"/>
   </a>
+  </img>
 </div>
 
 ###
