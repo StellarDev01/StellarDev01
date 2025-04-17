@@ -45,13 +45,13 @@
 <div align="left">
 
   <a href="samirgg2000@gmail.com" target="_blank">
-    <img width="50" height="50" src="https://img.icons8.com/bubbles/50/gmail-new.png" alt="gmail-new"/>
+    <img width="60" height="60" src="/imgs/gmail.png" alt="gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/stellardev-samirgonzalez/" target="_blank">
-  <img width="50" height="50" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/>
+  <img width="60" height="60" src="/imgs/linkedin.png" alt="linkedin"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=573228750198&text=Hola%2C%20quisiera%20saber%20un%20poco%20sobre%20ti%20y%20tus%20servicios" target="_blank">
-  <img width="50" height="50" src="https://img.icons8.com/bubbles/50/whatsapp.png" alt="whatsapp"/>
+  <img width="60" height="60" src="/imgs/whatsapp.png" alt="whatsapp"/>
   </a>
 </div>
 
