@@ -4,6 +4,8 @@
 
 <div align="center">
 
+  <img src="/imgs/night.jpg" width="100%" alt="stars and moon"/>
+
 ###
 
 <div align="center">
@@ -60,5 +62,3 @@
 <br clear="both">
 
 <img src=".github/workflows/snake.yml" alt="Snake animation" />
-
-###
