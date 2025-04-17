@@ -37,6 +37,9 @@
   height="50" alt="github logo"  />
   <img width="12" />
 
+</div>
+###
+<div align= "center">
 
   <a href="samirgg2000@gmail.com" target="_blank">
     <img width="60" height="60" src="/imgs/gmail.png" alt="gmail"/>
