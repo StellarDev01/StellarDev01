@@ -68,5 +68,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/StellarDivinity/StellarDivinity/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+<img src="https://raw.githubusercontent.com/StellarDev01/StellarDev01/output/snake.svg" alt="Snake animation" />
