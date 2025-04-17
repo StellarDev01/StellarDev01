@@ -2,7 +2,7 @@
 
 ###
 
-<div style="background: url('/imgs/night.jpg') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="background: url('/imgs/night.avif') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -38,7 +38,9 @@
   <img width="12" />
 
 </div>
+
 ###
+
 <div align= "center">
 
   <a href="samirgg2000@gmail.com" target="_blank">
