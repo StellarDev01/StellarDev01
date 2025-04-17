@@ -1,8 +1,10 @@
 <img src="/imgs/night.jpg" alt="Night background" width="100%" />
 
 ###
-
+<div align="left">
 <h2 align="left">Hola soy Samir Gonzalez, Stellar Dev Junior en programacion con varios proyectos pequeños. Un gusto.</h2>
+<img src="https://avatars.githubusercontent.com/u/66259427?v=4" alt="github" width="60" height="60" />
+</div>
 
 ###
 
