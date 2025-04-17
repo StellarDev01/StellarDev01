@@ -1,8 +1,12 @@
+<img src="/imgs/night.jpg" alt="Night background" />
+
+###
+
 <h2 align="left">Hola soy Samir Gonzalez, Stellar Dev Junior en programacion con varios proyectos pequeños. Un gusto.</h2>
 
 ###
 
-<div style="background: url('/imgs/night.avif') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="background: url('/imgs/night.jpg') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -52,9 +56,7 @@
   <a href="https://api.whatsapp.com/send?phone=573228750198&text=Hola%2C%20quisiera%20saber%20un%20poco%20sobre%20ti%20y%20tus%20servicios" target="_blank">
   <img width="60" height="60" src="/imgs/whatsapp.png" alt="whatsapp"/>
   </a>
-  </img>
+
 </div>
 
 ###
-
-<img src=".github/workflows/snake.yml" alt="Snake animation" />
