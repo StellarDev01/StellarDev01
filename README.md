@@ -1,4 +1,4 @@
-<img src="/imgs/night.jpg" alt="Night background" />
+<img src="/imgs/night.jpg" alt="Night background" width="100%" />
 
 ###
 
