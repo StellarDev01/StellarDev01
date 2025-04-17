@@ -1,14 +1,12 @@
-<img src="/imgs/night.jpg" alt="Night background" width="100%" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 ###
 <div align="left">
-<h2 align="left">Hola soy Samir Gonzalez, Stellar Dev Junior en programacion con varios proyectos pequeños. Un gusto.</h2>
-<img src="https://avatars.githubusercontent.com/u/66259427?v=4" alt="github" width="60" height="60" />
+<h1>Hola soy Samir Gonzalez, programador con gusto por golang y python. Amante del desarrollo web y backend.</h1>
 </div>
 
 ###
 
-<div style="background: url('/imgs/night.jpg') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="background: url('/imgs/night.avif') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
