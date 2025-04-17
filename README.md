@@ -1,14 +1,12 @@
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Night background" height="50%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Night background" height="500">
 
 ###
-<div align="left">
+<div align="center">
 <h1>Hola soy Samir Gonzalez, programador con gusto por golang y python. Amante del desarrollo web y backend.</h1>
 </div>
 
 ###
-
-<div style="background: url('/imgs/night.avif') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
