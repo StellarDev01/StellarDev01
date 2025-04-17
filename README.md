@@ -2,11 +2,7 @@
 
 ###
 
-<div align="center">
-
-  <img src="/imgs/night.jpg" width="100%" alt="stars and moon">
-
-###
+<div style="background: url('/imgs/night.jpg') center/cover no-repeat; min-height: 100vh; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
