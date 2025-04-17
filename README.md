@@ -1,6 +1,8 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Night background" height="500">
 
+<img src="https://github-readme-stats.vercel.app/api?username=StellarDev01&show_icons=true&theme=transparent" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarDev01&layout=compact&langs_count=7&theme=transparent" height="200" />
 ###
 <div align="center">
 <h1>Hola soy Samir Gonzalez, programador con gusto por golang y python. Amante del desarrollo web y backend.</h1>
@@ -60,3 +62,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/StellarDivinity/StellarDivinity/output/snake.svg" alt="Snake animation" />
