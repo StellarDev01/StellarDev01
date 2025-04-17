@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/StellarDev01/StellarDev01/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/StellarDev01/StellarDev01/tree/main/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
