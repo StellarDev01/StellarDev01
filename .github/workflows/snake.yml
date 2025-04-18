@@ -30,8 +30,10 @@ jobs:
       - name: commit and push snake.svg to main
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
-          message: "Update snake.svg"
+          directory: .
+        
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
