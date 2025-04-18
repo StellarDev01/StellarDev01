@@ -5,8 +5,8 @@
 
 ###
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=StellarDev01&rank_icon=github&show_icons=true&theme=dracula" height="200" width="600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarDev01&hide_progress=true&theme=dracula" height="200" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=StellarDev01&rank_icon=github&show_icons=true&theme=dracula" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StellarDev01&hide_progress=true&theme=dracula" width="400"/>
 </div>
 
 ###
